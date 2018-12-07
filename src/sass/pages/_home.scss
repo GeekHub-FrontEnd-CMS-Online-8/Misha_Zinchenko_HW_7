@@ -1,16 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900');
+
 .p_1{
-     
-}
-.bg_1{
-  margin: 0;
-  background: url(../img/bg_top.png);
-.rel{
-    
-}
-h1{
   color: #ffffff;
   font-family: Montserrat;
   font-size: 82px;
   font-weight: 700;
   line-height: 20.45px;
+  padding-top: 108px; 
+}
+.p_2{
+  color: #8d81ac;
+  font-family: Lato;
+  font-size: 30px;
+  font-weight: 300;
+  line-height: 20.45px;
+  padding-top: 29px;
+}
+.p_3{
+  color: #848e97;
+  font-family: Montserrat;
+  font-size: 14px;  
+  font-weight: 400;
+  line-height: 20.45px;
+  text-transform: uppercase;
+  padding-top: 18px;
+}
+.bg_1{
+  margin: 0;
+  padding-bottom: 538px;
+  background: url(../img/bg_top.png) center center;
+  background: cover;
+  
+}
+.rel{
+    
+}
+h1{
+  
 }
