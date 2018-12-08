@@ -10,11 +10,10 @@
 }
 .p_2{
   color: #8d81ac;
-  font-family: Lato;
   font-size: 30px;
   font-weight: 300;
   line-height: 20.45px;
-  padding-top: 29px;
+  margin-top: -10px;
 }
 .p_3{
   color: #848e97;
@@ -25,16 +24,54 @@
   text-transform: uppercase;
   padding-top: 18px;
 }
-.bg_1{
+.b_1{
   margin: 0;
   padding-bottom: 538px;
   background: url(../img/bg_top.png) center center;
   background: cover;
-  
 }
-.rel{
-    
+.b_2{
+  margin-top: -31px;
+  padding-bottom: 70px;
 }
-h1{
-  
+.btn_2{
+  width: 390px;
+  height: 62px;
+  background-color: #8d81ac;
+  border-radius: 50px;
+  border: 0;
+  color: #ffffff;
+  &:hover{
+    opacity: 0.9;
+    transition: all 0.5s ease;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+  }
+}
+.p1_b2{
+  color: #848e97;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 15px;
+  margin-top: 19px;
+}
+.p2_b2{
+  color: #635c73;
+  font-family: Montserrat;
+  font-size: 54px;
+  font-weight: 800;
+  line-height: 20.45px;
+  text-transform: uppercase;
+  margin-top: 66px;
+}
+.p3_b2{
+  width: 878px;
+  opacity: 0.8;
+  color: #323232;
+  font-family: "Source Sans Pro";
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 32px;
+  margin-top: 39px;
 }
